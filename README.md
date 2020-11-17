@@ -1,5 +1,5 @@
-# Movielens1M 基于深度学习的电影推荐系统
-使用movielens1M数据集（data can be downloaded from https://grouplens.org/datasets/movielens/)
+# MovieLens1M 基于深度学习的电影推荐系统
+使用MovieLens1M数据集（data can be downloaded from https://grouplens.org/datasets/movielens/)
 ，实现了Auto Encoder (AE), Variational Auto Encoder (VAE), BERT提取电影名特征3种方法，对评分矩阵进行填补，继而对用户做出推荐。
 
 代码建议Google Colab环境下运行，代码中的目录请根据自己的实际目录进行修改。  
