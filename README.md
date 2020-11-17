@@ -2,7 +2,7 @@
 使用MovieLens1M数据集（data can be downloaded from https://grouplens.org/datasets/movielens/)
 ，实现了Auto Encoder (AE), Variational Auto Encoder (VAE), BERT提取电影名特征3种方法，对评分矩阵进行填补，继而对用户做出推荐。
 
-代码建议在Google Colab环境下运行，代码中的目录请根据自己的实际目录进行修改。  
+代码建议在**Google Colab**环境下运行，代码中的目录请根据自己的实际目录进行修改。  
 
 本代码主目录和子目录如下：  
 
