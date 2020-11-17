@@ -32,3 +32,10 @@
 
 ### 2.3 MSE of training loss and test loss of BERT-based
 <img src="https://github.com/YJiangcm/Movielens1M-Movie-Recommendation-System/blob/main/pictures/bert-based%20result.png" width="800" height="300">
+
+### 2.4 test MSE loss of different models
+ Model | test MSE loss  
+ ---- | -----  
+ Auto Encoder  | 1.0837
+ Variational Auto Encoder  | 0.9956
+ BERT-based  | **0.7507**
