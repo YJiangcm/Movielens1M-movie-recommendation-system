@@ -39,3 +39,7 @@
  Auto Encoder  | 1.0837
  Variational Auto Encoder  | 0.9956
  BERT-based  | **0.7507**
+  
+   
+## LICENSE
+Please reference [MIT License Copyright (c) 2020 YJiangcm](https://github.com/YJiangcm/Movielens1M-Movie-Recommendation-System/blob/main/LICENSE)
