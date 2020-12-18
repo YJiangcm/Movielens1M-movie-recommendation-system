@@ -22,7 +22,7 @@
 ### 1.3 BERT-based
 <img src="https://github.com/YJiangcm/Movielens1M-Movie-Recommendation-System/blob/main/pictures/bert-based.PNG" width="600" height="300">
 
-## **2 Experiment Results:**
+## **2 Experimental Results:**
 
 ### 2.1 MSE of training loss and validation loss of Auto Encoder
 <img src="https://github.com/YJiangcm/Movielens1M-Movie-Recommendation-System/blob/main/pictures/auto%20encoder%20result.png" width="460" height="280">
